@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ol>
+<li>blue</li>
+<li>white</li>
+<li>pink</li>
+</ol>
+ 
